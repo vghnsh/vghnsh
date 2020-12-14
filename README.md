@@ -1,12 +1,11 @@
 ### Hi there, I'm Vighnesh Chaurasia 👋
 
----
 👨🏻‍💻 &nbsp;About Me
 - 🌱 I’m currently learning React Ecosysytem
 - 🤔 I’m looking for help with React Native
 - 💬 Ask me about Javascript and ReactJS or anything 
 - ⚡ Fun fact: I love to play Cricket, Snooker and Games.
----
+
 <img alt="Coding" align='right' height='180em' src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif">
 
 ### 🛠 &nbsp;Tech Stack
@@ -24,7 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
----
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p >
@@ -42,6 +41,7 @@
 <a href="https://instagram.com/vghnsh__"><img src="https://img.shields.io/badge/-@vghnsh__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/vighnesh.chaurasia"><img src="https://img.shields.io/badge/-@vghnsh__-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+---
 
 
 
