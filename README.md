@@ -34,7 +34,14 @@
 </a>
 </p>
 
+### 🤝🏻 &nbsp;Connect with Me
 
+<p align="center">
+<a href="https://linkedin.com/in/vigh"><img src="https://img.shields.io/badge/-Vighnesh%20Chaurasia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:vighneshc17@gmail.com"><img src="https://img.shields.io/badge/-vighneshc17@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/vghnsh__"><img src="https://img.shields.io/badge/-@vghnsh__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/vighnesh.chaurasia"><img src="https://img.shields.io/badge/-@vghnsh__-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
 
 
 
