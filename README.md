@@ -2,14 +2,13 @@
 
 ---
 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working on myself😄
 - 🌱 I’m currently learning React Ecosysytem
 - 🤔 I’m looking for help with React Native
 - 💬 Ask me about Javascript and ReactJS or anything 
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to play Cricket, Snooker and Games.
 ---
-<img alt="Coding" align='right' height='180em' src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif">%
+<img alt="Coding" align='right' height='180em' src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif">
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
