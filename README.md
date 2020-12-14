@@ -6,7 +6,7 @@
 - 💬 Ask me about Javascript and ReactJS or anything 
 - ⚡ Fun fact: I love to play Cricket, Snooker and Games.
 
-<img alt="Coding" align='right' height='220em'  src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif">
+<img alt="Coding" align='right' height='200em' src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif">
 
 
 ### 🛠 &nbsp;Tech Stack
