@@ -27,10 +27,10 @@
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p >
 <a href="https://github.com/vghnsh">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=vghnsh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-  <img align="right" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vghnsh&layout=compact&theme=blue-green"/>
+  <img align="left"  height="180em" src="https://github-readme-stats.vercel.app/api?username=vghnsh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+  <img  height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vghnsh&layout=compact&theme=blue-green"/>
 </a>
 </p>
 
