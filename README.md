@@ -6,7 +6,8 @@
 - 💬 Ask me about Javascript and ReactJS or anything 
 - ⚡ Fun fact: I love to play Cricket, Snooker and Games.
 
-<img alt="Coding" align='right' height='180em' src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif">
+<img alt="Coding" align='right' height='180em' src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif">&nbsp;
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -23,6 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
