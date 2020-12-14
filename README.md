@@ -41,7 +41,11 @@
 <a href="https://instagram.com/vghnsh__"><img src="https://img.shields.io/badge/-@vghnsh__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/vighnesh.chaurasia"><img src="https://img.shields.io/badge/-@vghnsh__-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
----
+
+### 💡 &nbsp; Recent Blogs
+- <a href="https://vighneshc.medium.com/what-are-the-different-ways-to-manage-states-in-react-be51690af2e8">What are the different ways to manage states in React?</a>
+- <a href="https://vighneshc.medium.com/how-to-make-your-content-look-attractive-79244ee4524f">How to Make Your content Look Attractive? </a>
+- <a href="https://vighneshc.medium.com/best-online-editors-for-programming-in-javascript-35e45f747061">Best online editors for Programming in Javascript</a>
 
 
 
