@@ -1,4 +1,4 @@
-### Hi there, I'm Vighnesh Chaurasia 👋
+### Hi there, I'm Vighnesh 👋
 
 👨🏻‍💻 &nbsp;About Me
 - 🌱 I’m currently learning React Ecosysytem
