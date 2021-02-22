@@ -1,7 +1,7 @@
 ### Hi there, I'm Vighnesh 👋
 
 👨🏻‍💻 &nbsp;About Me
-- 🌱 I’m currently learning React Ecosysytem
+<!-- 🌱 I’m currently learning React Ecosysytem -->
 - 🤔 I’m looking for help with React Native
 - 💬 Ask me about Javascript and ReactJS or anything 
 - ⚡ Fun fact: I love to play Cricket, Snooker and Games.
